@@ -1,0 +1,19 @@
+The id command displays my user account information, including the username and associated groups, thereby confirming my identity on the system.
+
+The pwd command outputs the present working directory, while ls -la provides a detailed listing of all files and directories along with their permissions, ownership, and other metadata.
+
+I created the file user_info.txt, wrote the required verification message into it, and then displayed the file contents to ensure it was saved correctly.
+
+The wc -m command calculates the total number of characters contained in the specified file.
+
+I consulted the manual page for the mkdir command to understand its available options. The -p option enables the creation of parent directories when they do not already exist.
+
+Listing the contents of the home directory displays all files and directories in alphabetical order by default.
+
+The grep command scans the log.txt file for lines containing the keyword “admin” and outputs only the matching results.
+
+The uname -r command reports the version of the Linux kernel currently in use on the system.
+
+I attempted to test network connectivity using the ping command; however, the command was unavailable because the ping utility is not installed in the GitHub Codespaces environment, which is a common limitation of minimal cloud-based systems.
+
+The uptime command reports the system’s running duration, the number of active users, and the current load averages.
